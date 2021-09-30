@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
   </a>
-  <a href="https://emotion.sh" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="emotionjs"
+  <a href="https://emotion.sh" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="emotionjs"
       width="40" height="40" />
   </a>
   <a href="https://sass-lang.com/" target="_blank"> <img
@@ -47,14 +47,14 @@
       alt="emotionjs" width="40" height="40" />
   </a>
   <a href="https://www.chartjs.org" target="_blank"> <img
-      src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="chartjs" width="40" height="40" />
+      src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
   </a>
   <a href="https://react-leaflet.js.org" target="_blank"> <img src="https://react-leaflet.js.org/img/logo-title.svg"
       alt="react leaflet" width="150" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png"
-      alt="mysql" width="40" height="55" />
+      src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png"
+      alt="mysql" width="80" height="40" />
   </a>
 </p>
 <p>
