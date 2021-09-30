@@ -27,12 +27,15 @@
       alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
-      alt="nextjs" width="40" height="40" /> </a>
+      alt="nextjs" width="40" height="40" />
+  </a>
+  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg"
+      alt="chartjs" width="40" height="40" />
+  </a>
   <a href="https://getbootstrap.com" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
