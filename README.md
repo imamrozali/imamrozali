@@ -39,27 +39,31 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
   </a>
-  <a href="https://emotion.sh" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="emotionjs"
-      width="40" height="40" />
+  <a href="https://emotion.sh" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4"
+      alt="emotionjs" width="40" height="40" />
   </a>
   <a href="https://sass-lang.com/" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png"
       alt="emotionjs" width="40" height="40" />
   </a>
-  <a href="https://www.chartjs.org" target="_blank"> <img
-      src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
+  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg"
+      alt="chartjs" width="40" height="40" />
   </a>
   <a href="https://react-leaflet.js.org" target="_blank"> <img src="https://react-leaflet.js.org/img/logo-title.svg"
       alt="react leaflet" width="150" height="40" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png"
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png"
       alt="mysql" width="80" height="40" />
   </a>
   <a href="https://www.postman.com/" target="_blank"> <img
-    src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
-    alt="postman" width="40" height="40" />
-</a>
+      src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
+      alt="postman" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img
+      src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"
+      alt="visual studio" width="40" height="40" />
+  </a>
+
 
 </p>
 <p>
