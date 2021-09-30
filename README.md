@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **muh.imamrozali@gmail.com**
 
-- ⚡ Fun fact ... **I am also a Mobile Legend**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-imam-rozali-b84aa016a/" target="blank"><img align="center"
