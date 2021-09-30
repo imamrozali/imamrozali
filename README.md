@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Imam Rozali</h1>
 <h3 align="center">Full stack web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Next Js, React Js & Express Js**
+- 🌱 My Experience **Next Js, React Js & Express Js**
 
 - 📫 How to reach me **muh.imamrozali@gmail.com**
 
