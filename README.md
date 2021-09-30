@@ -57,7 +57,7 @@
          <a href="https://leafletjs.com/" target="_blank">
          <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/1200px-Leaflet_logo.svg.png" alt="redux"
-        width="180" height="40" />
+        width="150" height="40" />
          </a>
         
 </p>
