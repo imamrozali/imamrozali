@@ -50,11 +50,11 @@
       src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="chartjs" width="40" height="40" />
   </a>
   <a href="https://react-leaflet.js.org" target="_blank"> <img src="https://react-leaflet.js.org/img/logo-title.svg"
-      alt="react leaflet" width="40" height="40" />
+      alt="react leaflet" width="150" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png"
-      alt="mysql" width="40" height="40" />
+      alt="mysql" width="40" height="55" />
   </a>
 </p>
 <p>
