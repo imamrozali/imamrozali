@@ -28,7 +28,8 @@
       alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"
+    <img
+      src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"
       alt="express" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
@@ -47,6 +48,13 @@
   </a>
   <a href="https://www.chartjs.org" target="_blank"> <img
       src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="chartjs" width="40" height="40" />
+  </a>
+  <a href="https://react-leaflet.js.org" target="_blank"> <img src="https://react-leaflet.js.org/img/logo-title.svg"
+      alt="react leaflet" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png"
+      alt="mysql" width="40" height="40" />
   </a>
 </p>
 <p>
