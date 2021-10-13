@@ -58,11 +58,11 @@
   </a>
   <a href="https://www.postman.com/" target="_blank"> <img
       src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
-      alt="postman" width="40" height="40" />
+      alt="postman" width="37" height="37" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img
       src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"
-      alt="visual studio" width="40" height="40" />
+      alt="visual studio" width="37" height="37" />
   </a>
 
 
