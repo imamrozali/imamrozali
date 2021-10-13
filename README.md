@@ -27,11 +27,6 @@
       src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png"
       alt="nodejs" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"
-      alt="express" width="40" height="40" />
-  </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
       alt="nextjs" width="40" height="40" />
   </a>
