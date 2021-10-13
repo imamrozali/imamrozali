@@ -25,7 +25,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank"> <img
       src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png"
-      alt="nodejs" width="40" height="40" />
+      alt="nodejs" width="35" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
       alt="nextjs" width="40" height="40" />
