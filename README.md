@@ -47,6 +47,9 @@
   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg"
       alt="chartjs" width="40" height="40" />
   </a>
+  <a href="https://apexcharts.com/" target="_blank"> <img src= https://avatars.githubusercontent.com/u/37190687?s=200&v=4"
+      alt="apexchart" width="40" height="40" />
+  </a>
   <a href="https://react-leaflet.js.org" target="_blank"> <img src="https://react-leaflet.js.org/img/logo-title.svg"
       alt="react leaflet" width="120" height="40" />
   </a>
