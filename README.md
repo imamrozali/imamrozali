@@ -48,10 +48,10 @@
       alt="chartjs" width="40" height="40" />
   </a>
   <a href="https://react-leaflet.js.org" target="_blank"> <img src="https://react-leaflet.js.org/img/logo-title.svg"
-      alt="react leaflet" width="150" height="40" />
+      alt="react leaflet" width="140" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png"
-      alt="mysql" width="80" height="40" />
+      alt="mysql" width="75" height="40" />
   </a>
   <a href="https://www.postman.com/" target="_blank"> <img
       src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
