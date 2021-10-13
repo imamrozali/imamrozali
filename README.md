@@ -23,7 +23,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src=" https://image.flaticon.com/icons/png/512/919/919832.png"
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/919/919832.png"
       alt="typeescript" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank"> <img
