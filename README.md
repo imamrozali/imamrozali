@@ -24,7 +24,7 @@
       alt="javascript" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png"
       alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank">
