@@ -2,17 +2,15 @@
 
 I'm Muhammad Imam Rozali!
 
-<br/>Currently:<br/>
-- </i> Senior Software Engineer at Saepay at Jakarta 
-<br/>Previously:<br/>
-- </i> Senior Software Engineer at Bhumi Varta Technology.
-- </i> Software Engineer at Gibox Digital Asia.
+#Currently:<br/>
+</i> Senior Software Engineer at Saepay at Jakarta 
+#Previously:<br/>
+</i> Senior Software Engineer at Bhumi Varta Technology.
+</i> Software Engineer at Gibox Digital Asia.
 
 <h2>💻 I'm Currently workng on</h2>
 
-- System Design and Distributed Computing
-- Software Engineering
-
+- Principal Architecture Client Side Web Platform
 
 __Check out my GitHub repository:__
 
