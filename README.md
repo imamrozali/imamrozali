@@ -2,11 +2,11 @@
 
 I'm Muhammad Imam Rozali!
 
-#Currently:<br/>
-</i> Senior Software Engineer at Saepay at Jakarta 
-#Previously:<br/>
-</i> Senior Software Engineer at Bhumi Varta Technology.
-</i> Software Engineer at Gibox Digital Asia.
+- Currently:<br/>
+</i> Senior Software Engineer at Saepay at Jakarta <br/>
+- Previously:<br/>
+</i> Senior Software Engineer at Bhumi Varta Technology.<br/>
+</i> Software Engineer at Gibox Digital Asia.<br/>
 
 <h2>💻 I'm Currently workng on</h2>
 
