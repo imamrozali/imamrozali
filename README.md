@@ -5,6 +5,8 @@
 - Currently:<br/>
 </i> Senior Software Engineer at Saepay at Jakarta, Indonesia.<br/>
 - Previously:<br/>
+</i> Senior Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
+</i> Founder at Horiz9n at Jakarta, Indonesia.<br/>
 </i> Senior Software Engineer at Bhumi Varta Technology at BSD, Indonesia.<br/>
 </i> Software Engineer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
 </i> Graduate at University of Budi Luhur at Jakarta, Indonesia.<br/>
