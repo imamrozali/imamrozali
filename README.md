@@ -7,7 +7,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imamrozali.imamrozali)](https://github.com/imamrozali) [![GitHub followers](https://img.shields.io/github/followers/imamrozali.svg?style=social&label=Follow)](https://github.com/imamrozali?tab=followers)
 
 I'm Muhammad Imam Rozali! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
+- <i>Currently:</i> Senior Software Engineer at Saepay at Jakarta 
 - <i>Previously:</i> Full Stack Software Engineer at Gibox Digital Asia.</i> Full Stack Software Engineer at Gibox Digital Asia.
 
 <h2>💻 I'm Currently workng on</h2>
