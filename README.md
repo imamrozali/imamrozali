@@ -34,9 +34,8 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href={https://www.typescriptlang.org/}>![www.typescriptlang.org](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href={https://reactjs.org/}>![www.reactjs.org](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)</a>
 <a href={https://leafletjs.com/}>![www.leafletjs.com](https://img.shields.io/badge/Leaflet-green?style=for-the-badge&logo=leaflet&logoColor=white)</a>
+<a href={https://vitejs.dev/}>![www.vitejs.dev](https://img.shields.io/badge/vite-orange?style=for-the-badge&logo=vite&logoColor=white)</a>
 
-
-https://img.shields.io/badge/Leaflet-green?style=for-the-badge&logo=leaflet&logoColor=white
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:muh.imamrozali@gmail.com">![muh.imamrozali@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/muhammad-imam-rozali-b84aa016a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
