@@ -36,7 +36,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href={https://leafletjs.com/}>![www.leafletjs.com](https://img.shields.io/badge/Leaflet-green?style=for-the-badge&logo=leaflet&logoColor=white)</a>
 <a href={https://vitejs.dev/}>![www.vitejs.dev](https://img.shields.io/badge/vite-orange?style=for-the-badge&logo=vite&logoColor=white)</a>
 <a href={https://expressjs.com/}>![www.expressjs.dev](https://img.shields.io/badge/express-yellow?style=for-the-badge&logo=express&logoColor=white)</a>
-<a href={https://deck.gl/}>![www.deck.gl](https://img.shields.io/badge/deck.gl-yellow?style=for-the-badge&logo=deck.gl&logoColor=white)</a>
+<a href={https://deck.gl/}>![www.deck.gl](https://img.shields.io/badge/deck.gl-white?style=for-the-badge&logo=deck.gl&logoColor=black)</a>
 
 <h2>📫 How to reach me:</h2>
 
