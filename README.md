@@ -19,7 +19,7 @@ Previously:
 
 <h2>💻 I'm Currently workng on</h2>
 
-- Principal Architect Client Side Web Platform
+- Developing as Principal Architect Client Side, Client Server, Client Side Security - Web Platform
 
 __Check out my GitHub repository:__
 
