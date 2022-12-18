@@ -19,7 +19,7 @@ Previously:
 
 <h2>💻 I'm Currently workng on</h2>
 
-- Principal Architecture Client Side Web Platform
+- Principal Architect Client Side Web Platform
 
 __Check out my GitHub repository:__
 
