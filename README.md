@@ -12,14 +12,16 @@
 </i> Graduate Information System at University of Budi Luhur at Jakarta, Indonesia.<br/>
 </i> Graduate Web Page, Digital/Multimedia and Information Resources Design at Muhammadiyah 9 Vocational High School at Jakarta, Indonesia.<br/>
 
-*** Currently
-   * </i> Senior Software Engineer at Saepay at Jakarta, Indonesia.
-   * Unordered Second
-   * Unordered Third
-*** Ordered Second
-   * Unordered One
-   * Unordered Two
-   * Unordered Three
+Currently:
+   * </i> Senior Software Engineer at Saepay at Jakarta, Indonesia.<br/>
+
+Previously:
+   * </i> Senior Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
+   * </i> Founder at Horiz9n at Jakarta, Indonesia.<br/>
+   * </i> Senior Software Engineer at Bhumi Varta Technology at BSD, Indonesia.<br/>
+   * </i> Software Engineer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
+   * </i> Graduate Information System at University of Budi Luhur at Jakarta, Indonesia.<br/>
+   * </i> Graduate Web Page, Digital/Multimedia and Information Resources Design at Muhammadiyah 9 Vocational High School at Jakarta, Indonesia.<br/>
 
 <h2>💻 I'm Currently workng on</h2>
 
