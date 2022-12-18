@@ -19,7 +19,7 @@ Previously:
 
 <h2>💻 I'm Currently workng on</h2>
 
-- Designing and Developing as Principal Architect Large Scale distributed system Client Side, Client Server, Client Side Security, Highly reliable systems - Web Platform
+- Designing and Developing as Principal Architect Large Scale distributed system Client Side, Client Side Server, Client Side Security, Highly reliable systems - Web Platform
 
 __Check out my GitHub repository:__
 
