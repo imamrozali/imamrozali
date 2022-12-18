@@ -26,7 +26,7 @@ cooming soon
 
 <h2> About imamrozali⚡:</h2>
 
-I'm From City of Jakarta, Indonesia country. Software technology scope is my hobbies.
+I come form the city of Jakarta, Indonesia. The scope of software technology is my focus.
  
 - Website : [https://imamrozali.com](https://imamrozali.com)
 
