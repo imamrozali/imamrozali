@@ -3,7 +3,7 @@
 <h2> I'm Muhammad Imam Rozali!</h2>
 
 - Currently:<br/>
- - </i> Senior Software Engineer at Saepay at Jakarta, Indonesia.<br/>
+</i> Senior Software Engineer at Saepay at Jakarta, Indonesia.<br/>
 - Previously:<br/>
 </i> Senior Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
 </i> Founder at Horiz9n at Jakarta, Indonesia.<br/>
