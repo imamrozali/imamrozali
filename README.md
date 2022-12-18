@@ -30,11 +30,12 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
  
 - Website : [https://imamrozali.com](https://imamrozali.com)
 
-<a href={https://www.javascript.com/}>![www.javascript.com](https://img.shields.io/badge/Typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white)</a>
+<a href={https://www.javascript.com/}>![www.javascript.com](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)</a>
 <a href={https://www.typescriptlang.org/}>![www.typescriptlang.org](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href={https://reactjs.org/}>![www.reactjs.org](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)</a>
 <a href={https://leafletjs.com/}>![www.leafletjs.com](https://img.shields.io/badge/Leaflet-green?style=for-the-badge&logo=leaflet&logoColor=white)</a>
 <a href={https://vitejs.dev/}>![www.vitejs.dev](https://img.shields.io/badge/vite-orange?style=for-the-badge&logo=vite&logoColor=white)</a>
+<a href={https://expressjs.com/}>![www.expressjs.dev](https://img.shields.io/badge/express-yellow?style=for-the-badge&logo=express&logoColor=white)</a>
 
 <h2>📫 How to reach me:</h2>
 
