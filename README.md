@@ -39,9 +39,8 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href={https://deck.gl/}>![www.deck.gl](https://img.shields.io/badge/deck.gl-white?style=for-the-badge&logo=deck.gl&logoColor=black)</a>
 <a href={https://www.json.org/}>![www.json.org](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white)</a>
 <a href={https://www.mysql.com/}>![www.mysql.com](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)</a>
+<a href={https://tailwindcss.com/}>![www.tailwindcss.com](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
 
-
-https://img.shields.io/badge/json-green?style=for-the-badge&logo=json&logoColor=white
 
 <h2>📫 How to reach me:</h2>
 
