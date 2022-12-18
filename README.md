@@ -17,7 +17,7 @@ Previously:
    * </i> Software as A Service : Finance Service, Geospatial Information System Analytics<br/>
    * </i> Software House : Case Analytics Management, Geospatial Information System Analytics, Text Entity Analytics<br/>
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm Currently working on</h2>
 
 - Designing and Developing as Principal Architect Large Scale distributed system Client Side, Client Side Server, Client Side Security, Highly reliable systems - Web Platform
 
