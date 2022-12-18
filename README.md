@@ -14,8 +14,8 @@ Previously:
    * </i> Graduate Web Page, Digital/Multimedia and Information Resources Design at Muhammadiyah 9 Vocational High School at Jakarta, Indonesia.<br/>
 
 <h2>👔 Experience Industry</h2>
-   * </i> Software as a Service<br/>
-   * </i> Software House :<br/>
+   * </i> Software as a Service: Finance, Geospatial Information System<br/>
+   * </i> Software House: Case Analytic, Geospatial Information System<br/>
 
 <h2>💻 I'm Currently workng on</h2>
 
