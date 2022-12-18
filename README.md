@@ -2,7 +2,9 @@
 
 I'm Muhammad Imam Rozali! 
 - <i>Currently:</i> Senior Software Engineer at Saepay at Jakarta 
-- <i>Previously:</i> Full Stack Software Engineer at Gibox Digital Asia.</i> Full Stack Software Engineer at Gibox Digital Asia.
+- <i>Previously:
+- </i> Senior Software Engineer at Bhumi Varta Technology.
+- </i> Software Engineer at Gibox Digital Asia.
 
 <h2>💻 I'm Currently workng on</h2>
 
@@ -12,9 +14,11 @@ I'm Muhammad Imam Rozali!
 
 __Check out my GitHub repository:__
 
+cooming soon
+
 <h2> About imamrozali⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+cooming soon
  
 - Website : [https://imamrozali.com](https://laxmena.com)
 
