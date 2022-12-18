@@ -30,7 +30,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
  
 - Website : [https://imamrozali.com](https://imamrozali.com)
 
-https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
+(https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h2>📫 How to reach me:</h2>
 
