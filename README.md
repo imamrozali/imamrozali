@@ -14,7 +14,7 @@ Previously:
 
 <h2>👔 Experience Industry</h2>
    * </i> Software as a Service : Finance Service, Geospatial Information System Analytics. <br/>
-   * </i> Software House : Case Analytics Management, Geospatial Information System Analytics, Text Entity Analytics, Data Realtime.<br/>
+   * </i> Software House : Case Analytics Management, Geospatial Information System Analytics, Text Entity Analytics, Realtime Data.<br/>
 
 <h2>💻 I'm Currently working on</h2>
 
