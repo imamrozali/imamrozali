@@ -32,7 +32,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 
 <a href={https://www.javascript.com/}>![www.javascript.com](https://img.shields.io/badge/Typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href={https://www.typescriptlang.org/}>![www.typescriptlang.org](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)</a>
-<a href={https://reactjs.org/}>![www.reactjs.org](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)</a>
+<a href={https://reactjs.org/}>![www.reactjs.org](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)</a>
 
 <h2>📫 How to reach me:</h2>
 
