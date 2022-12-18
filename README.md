@@ -8,7 +8,7 @@
 
 I'm Muhammad Imam Rozali! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+- <i>Previously:</i> Full Stack Software Engineer at Gibox Digital Asia.</i> Full Stack Software Engineer at Gibox Digital Asia.
 
 <h2>💻 I'm Currently workng on</h2>
 
