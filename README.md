@@ -30,6 +30,8 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
  
 - Website : [https://imamrozali.com](https://imamrozali.com)
 
+https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:muh.imamrozali@gmail.com">![muh.imamrozali@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/muhammad-imam-rozali-b84aa016a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
