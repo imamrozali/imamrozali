@@ -1,9 +1,3 @@
-![Muhammad Imam Rozali]([./banner.png](https://media.licdn.com/dms/image/D5616AQGAs8MXYiVWMQ/profile-displaybackgroundimage-shrink_350_1400/0/1662128326967?e=1677110400&v=beta&t=YrZbT0oQyuYBrOmDSqTJlh_ZWY9ZqD6hELn7Kh8mH9o))
-<!-- <h2 align='center'>Muhammad Imam Rozali @ imamrozali</h2>
-<p align='center'><b>Graduate Student at University of Budi Luhur</b></p> -->
-
-<h2>Hey! 👋</h2>
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imamrozali.imamrozali)](https://github.com/imamrozali) [![GitHub followers](https://img.shields.io/github/followers/imamrozali.svg?style=social&label=Follow)](https://github.com/imamrozali?tab=followers)
 
 I'm Muhammad Imam Rozali! 
