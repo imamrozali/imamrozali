@@ -7,6 +7,7 @@ I'm Muhammad Imam Rozali!
 - Previously:<br/>
 </i> Senior Software Engineer at Bhumi Varta Technology.<br/>
 </i> Software Engineer at Gibox Digital Asia.<br/>
+</i> Graduate at University of Budi Luhur at Jakarta, Indonesia.<br/>
 
 <h2>💻 I'm Currently workng on</h2>
 
