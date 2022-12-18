@@ -12,11 +12,11 @@
 </i> Graduate Information System at University of Budi Luhur at Jakarta, Indonesia.<br/>
 </i> Graduate Web Page, Digital/Multimedia and Information Resources Design at Muhammadiyah 9 Vocational High School at Jakarta, Indonesia.<br/>
 
-#. Currently
+*** Currently
    * </i> Senior Software Engineer at Saepay at Jakarta, Indonesia.
    * Unordered Second
    * Unordered Third
-#. Ordered Second
+*** Ordered Second
    * Unordered One
    * Unordered Two
    * Unordered Three
