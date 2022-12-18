@@ -21,7 +21,7 @@ cooming soon
 
 <h2> About imamrozali⚡:</h2>
 
-cooming soon
+I'm From Jakarta city, Indonesia country
  
 - Website : [https://imamrozali.com](https://imamrozali.com)
 
