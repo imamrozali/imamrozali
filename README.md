@@ -1,9 +1,9 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imamrozali.imamrozali)](https://github.com/imamrozali) [![GitHub followers](https://img.shields.io/github/followers/imamrozali.svg?style=social&label=Follow)](https://github.com/imamrozali?tab=followers)
 
-I'm Muhammad Imam Rozali! 
-<i>Currently:
+I'm Muhammad Imam Rozali!
+<br/><i>Currently:<br/>
 - </i> Senior Software Engineer at Saepay at Jakarta 
-<i>Previously:
+<br/><i>Previously:<br/>
 - </i> Senior Software Engineer at Bhumi Varta Technology.
 - </i> Software Engineer at Gibox Digital Asia.
 
