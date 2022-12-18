@@ -3,10 +3,10 @@
 <h2> I'm Muhammad Imam Rozali!</h2>
 
 - Currently:<br/>
-</i> Senior Software Engineer at Saepay at Jakarta <br/>
+</i> Senior Software Engineer at Saepay at Jakarta, Indonesia.<br/>
 - Previously:<br/>
-</i> Senior Software Engineer at Bhumi Varta Technology.<br/>
-</i> Software Engineer at Gibox Digital Asia.<br/>
+</i> Senior Software Engineer at Bhumi Varta Technology at BSD, Indonesia.<br/>
+</i> Software Engineer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
 </i> Graduate at University of Budi Luhur at Jakarta, Indonesia.<br/>
 
 <h2>💻 I'm Currently workng on</h2>
