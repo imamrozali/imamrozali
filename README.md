@@ -46,6 +46,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href="https://www.gitlab.com/">![www.gitlab.com](https://img.shields.io/badge/gitlab-red?style=for-the-badge&logo=gitlab&logoColor=white)</a>
 <a href="https://styled-components.com/">![www.styled-components.com](https://img.shields.io/badge/styled-BF4080?style=for-the-badge&logo=styled-components&logoColor=white)</a>
 <a href="https://www.postman.com/">![www.postman.com](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)</a>
+<a href="https://www.nestjs.com/">![www.nestjs.com](https://img.shields.io/badge/nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white)</a>
 
 
 
