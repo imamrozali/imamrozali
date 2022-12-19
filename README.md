@@ -9,7 +9,7 @@ Previously:
    * </i> Senior Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
    * </i> Founder at Horiz9n at Jakarta, Indonesia.<br/>
    * </i> Software Engineer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
-   * </i> System Analyst at Intern University of Budi Luhur at Jakarta, Indonesia.<br/>
+   * </i> System Analyst Intern University of Budi Luhur at Jakarta, Indonesia.<br/>
    * </i> Graduate Information System at University of Budi Luhur at Jakarta, Indonesia.<br/>
    * </i> Graduate Web Page, Digital/Multimedia and Information Resources Design at Muhammadiyah 9 Vocational High School at Jakarta, Indonesia.<br/>
 
