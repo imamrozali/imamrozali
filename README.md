@@ -30,6 +30,8 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
  
 - Website : [https://imamrozali.com](https://imamrozali.com)
 
+<h2>🌐 Tech Stack</h2>
+
 <a href="https://www.javascript.com/">![www.javascript.com](https://img.shields.io/badge/javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white)</a>
 <a href="https://www.typescriptlang.org/">![www.typescriptlang.org](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="https://reactjs.org/">![www.reactjs.org](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)</a>
@@ -49,8 +51,6 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href="https://www.nestjs.com/">![www.nestjs.com](https://img.shields.io/badge/nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white)</a>
 <a href="https://www.nextjs.org/">![www.nextjs.org](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)</a>
 <a href="https://developer.mozilla.org/">![www.developer.mozilla.org](https://img.shields.io/badge/MDN_-black?style=for-the-badge&logo=mozilla&logoColor=white)</a>
-
-
 
 
 <h2>📫 How to reach me:</h2>
