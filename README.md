@@ -43,6 +43,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href="https://redux.js.org/">![www.redux.js.org](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)</a>
 <a href="https://sass-lang.com/">![www.sass-lang.com](https://img.shields.io/badge/sass-BF4080?style=for-the-badge&logo=sass&logoColor=white)</a>
 <a href="https://www.atlassian.com/">![www.atlassian.com](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira&logoColor=white)</a>
+<a href="https://www.gitlab.com/">![www.gitlab.com](https://img.shields.io/badge/gitlab-red?style=for-the-badge&logo=gitlab&logoColor=white)</a>
 
 
 
