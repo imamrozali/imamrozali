@@ -41,7 +41,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href="https://www.mysql.com/">![www.mysql.com](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="https://tailwindcss.com/">![www.tailwindcss.com](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
 <a href="https://redux.js.org/">![www.redux.js.org](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)</a>
-<a href="https://sass-lang.com/">![www.sass-lang.com](https://img.shields.io/badge/sass-purple?style=for-the-badge&logo=sass&logoColor=white)</a>
+<a href="https://sass-lang.com/">![www.sass-lang.com](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white)</a>
 
 <h2>📫 How to reach me:</h2>
 
