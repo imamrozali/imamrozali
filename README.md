@@ -55,7 +55,7 @@ I come form the city of Jakarta, Indonesia. The scope of software technology is 
 <a href="https://www.nestjs.com/">![www.nestjs.com](https://img.shields.io/badge/nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white)</a>
 <a href="https://www.nextjs.org/">![www.nextjs.org](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)</a>
 <a href="https://developer.mozilla.org/">![www.developer.mozilla.org](https://img.shields.io/badge/MDN_-black?style=for-the-badge&logo=mozilla&logoColor=white)</a>
-<a href="https://maplibre.org/">![www.maplibre.org](https://avatars.githubusercontent.com/u/75709127?s=15&v=4)</a>
+<a href="https://maplibre.org/">![www.maplibre.org](https://camo.githubusercontent.com/e1f2a4886d9d6e1e267cc4ad238a0d7f4e3322f5eef1a72d6fdc9be504cf7c4e/68747470733a2f2f6d61706c696272652e6f72672f696d672f6d61706c696272652d6c6f676f2d6269672e737667)</a>
 
 
 <h2>📫 How to reach me:</h2>
