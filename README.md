@@ -19,7 +19,7 @@ Previously:
 
 <h2>💻 I'm Currently working on</h2>
 
-- Designing and Developing as Principal Architect Large Scale distributed system Client Side, Client Side Server, Client Side Security, Highly reliable systems - Web Platform
+- Designing and Developing web app distributed system Client Side, Client Side Server, Client Side Security, Highly reliable systems - Web Platform
 
 __Check out my GitHub repository:__
 
@@ -29,7 +29,7 @@ cooming soon
 
 I come form the city of Jakarta, Indonesia. The scope of software technology is my focus.
  
-- Website : [https://imamrozali.com](https://imamrozali.com)
+- Website : 
 
 <h2>🌐 Tech & Tools Stack</h2>
 
