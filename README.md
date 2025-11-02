@@ -3,13 +3,12 @@
 <h2> Hello, I'm Muhammad Imam Rozali!</h2>
 
 Currently:
-   * </i> Software Engineer Specialist at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
+   * </i> Frontend Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
 
 Previously:
-   * </i> Senior Software Engineer at Saepay at Jakarta, Indonesia.<br/>
-   * </i> Senior Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
-   * </i> Founder at Horiz9n at Jakarta, Indonesia.<br/>
-   * </i> Software Engineer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
+   * </i> Software Engineer at Saepay at Jakarta, Indonesia.<br/>
+   * </i> Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
+   * </i> Frontend Developer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
    * </i> System Analyst Intern University of Budi Luhur at Jakarta, Indonesia.<br/>
    * </i> Graduate Information System at University of Budi Luhur at Jakarta, Indonesia.<br/>
    * </i> Graduate Web Page, Digital/Multimedia and Information Resources Design at Muhammadiyah 9 Vocational High School at Jakarta, Indonesia.<br/>
