@@ -12,7 +12,7 @@
 - Frontend Engineer — Bhumi Varta Technology, South Tangerang BSD  
 - Software Engineer — Saepay, Jakarta  
 - Software Engineer — Bhumi Varta Technology, South Tangerang BSD  
-- Frontend Developer — Gibox Digital Asia, Jakarta  
+- Software Developer — Gibox Digital Asia, Jakarta  
 - System Analyst Intern — University of Budi Luhur  
 - Graduate — Information System, University of Budi Luhur  
 - Graduate — Web Page & Digital Media, SMK Muhammadiyah 9  
