@@ -3,9 +3,10 @@
 <h2> Hello, I'm Muhammad Imam Rozali!</h2>
 
 Currently:
-   * </i> Frontend Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
+   * 
 
 Previously:
+   * </i> Frontend Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
    * </i> Software Engineer at Saepay at Jakarta, Indonesia.<br/>
    * </i> Software Engineer at Bhumi Varta Technology at South of Tangerang BSD, Indonesia.<br/>
    * </i> Frontend Developer at Gibox Digital Asia at Jakarta, Indonesia.<br/>
