@@ -108,14 +108,14 @@ Software engineering and modern web ecosystems are my main focus.
 - **Permissions-Policy (Feature Policy)**  
 - **Cross-Origin-Embedder-Policy / Cross-Origin-Opener-Policy**  
 
-**Database & Query Builders** 
+### **Database & Query Builders** 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)]()
 [![Kysely](https://img.shields.io/badge/kysely-2F74C0?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)]()
 
-**Device Integration**
+### **Device Integration**
 - ⚙️ **Thermal Printer (ESC/POS) Support**
 - 📱 **Barcode & QR Code Scanner (USB / Bluetooth HID)**
 
