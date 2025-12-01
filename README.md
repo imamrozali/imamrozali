@@ -108,7 +108,7 @@ Software engineering and modern web ecosystems are my main focus.
 - **Permissions-Policy (Feature Policy)**  
 - **Cross-Origin-Embedder-Policy / Cross-Origin-Opener-Policy**  
 
-**Database & Query Builders**
+**Database & Query Builders** 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)]()
