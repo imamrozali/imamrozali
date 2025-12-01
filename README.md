@@ -65,15 +65,12 @@ Software engineering and modern web ecosystems are my main focus.
 [![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
 
-
-
 <!-- Additional Frontend Technologies -->
 [![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Vue](https://img.shields.io/badge/vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![PWA](https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 [![AMP](https://img.shields.io/badge/amp-1C79C0?style=for-the-badge&logo=amp&logoColor=white)](https://amp.dev/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
-
 
 ### 🏗️ **Backend**
 [![NodeJS](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -111,10 +108,16 @@ Software engineering and modern web ecosystems are my main focus.
 - **Permissions-Policy (Feature Policy)**  
 - **Cross-Origin-Embedder-Policy / Cross-Origin-Opener-Policy**  
 
-### 🗄️ Database
+**Database & Query Builders**
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)]()
+[![Kysely](https://img.shields.io/badge/kysely-2F74C0?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)]()
+
+**Device Integration**
+- ⚙️ **Thermal Printer (ESC/POS) Support**
+- 📱 **Barcode & QR Code Scanner (USB / Bluetooth HID)**
 
 ### 🧪 **Testing**
 [![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)]()
