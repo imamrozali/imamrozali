@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Currently
-- (Coming soon)
+- Frontend Engineer -  XLSMART Telecom Sejahtera, Jakarta
 
 ### 🧑‍💼 Previously
 - Frontend Engineer — Bhumi Varta Technology, South Tangerang BSD  
